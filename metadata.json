@@ -1,0 +1,22 @@
+{
+	"name"                   : "Solana Fellowship 2024",
+	"symbol"                 : "SF24",
+	"description"            : "Superlaser cnft collection",
+	"seller_fee_basis_points": 0,
+	"image"                  : "https://qurobert.github.io/logo.png",
+	"external_url"           : "https://qurobert.github.io",
+	"attributes"             : [],
+	"collection"             : {
+		"name"  : "Superlaser Collection",
+		"family": "Superlaser cnft"
+	},
+	"properties": {
+		"files": [
+			{
+				"uri" : "https://qurobert.github.io/logo.png",
+				"type": "image/png"
+			}
+		],
+		"category": "image"
+	}
+}

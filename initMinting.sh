@@ -1,0 +1,1 @@
+bun run nft_collection.ts && bun run merkle_tree.ts && sleep 2 && bun run mint.ts 
