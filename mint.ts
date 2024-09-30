@@ -99,7 +99,7 @@ const run = async () => {
         bs58.encode(mint.signature)
       );
 
-      await new Promise(_ => setTimeout(_,2000));
+      await new Promise(_ => setTimeout(_,3000));
     }
 
   } catch (e) {
