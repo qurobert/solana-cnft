@@ -5,4 +5,5 @@ NFT have already been airdroped to addresses.
 ## Usage
 You can choose between development/devnet or production/mainet in the .env file that have been uploaded.
 
-> sh initMinting.sh
+```bun install```
+```sh initMinting.sh```
